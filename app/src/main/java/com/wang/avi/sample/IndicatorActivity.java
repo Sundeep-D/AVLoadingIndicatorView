@@ -13,7 +13,7 @@ import com.wang.avi.AVLoadingIndicatorView;
 
 public class IndicatorActivity extends AppCompatActivity{
 
-    private AVLoadingIndicatorView avi;
+    private AVLoadingIndicatorView avi;                         //make sure to import the above import statement
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
